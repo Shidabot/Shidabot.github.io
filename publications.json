@@ -1,0 +1,66 @@
+[
+  {
+    "year": "2026",
+    "title": "Clean and Consistent MLS Point Clouds from the Start: Moving-Object Removal Coupled with LiDAR–Inertial Odometry for Urban Scenes.",
+    "authors": "Shida Wang, Ville V. Lehtola, Hangbin Wu, and George Vosselman.",
+    "venue": "ISPRS Journal of Photogrammetry and Remote Sensing, 238: 775–793, 2026.",
+    "kind": "journal",
+    "first": true
+  },
+  {
+    "year": "2026",
+    "title": "LiDAR–Inertial Mapping in Degenerate Scenes by Fusing Geometric and Intensity Features.",
+    "authors": "Shida Wang, Hangbin Wu, and Haopeng Hu.",
+    "venue": "Chinese Journal of Lasers, 53(13): 03, 2026.",
+    "kind": "journal",
+    "first": true
+  },
+  {
+    "year": "2025",
+    "title": "On-the-Fly Extrinsic Calibration of LiDAR–IMU via Nonuniform Motion Model and Excitation Analysis.",
+    "authors": "Shida Wang, Hangbin Wu, Ville V. Lehtola, Han Yue, Yutang Wang, and Chun Liu.",
+    "venue": "IEEE Transactions on Instrumentation and Measurement, 74, 2025.",
+    "kind": "journal",
+    "first": true
+  },
+  {
+    "year": "2025",
+    "title": "Spatial-Relation-Guided Intelligent Understanding of Complex Railway Tunnel Structures Using Mobile Laser Scanning Data.",
+    "authors": "Shida Wang, Hangbin Wu, Lianbi Yao, Jintao Li, Yuanhang Kong, Chun Liu, and Haili Sun.",
+    "venue": "Transactions in GIS, 29, 2025.",
+    "kind": "journal",
+    "first": true
+  },
+  {
+    "year": "2025",
+    "title": "Hierarchical Vertical-Aware and Adaptive Multi-Scale Network for Three-Dimensional Object Detection in Maritime Environments.",
+    "authors": "Yutang Wang, Hangbin Wu, Shida Wang, Yuanhang Kong, Yifan Liu, Zhiming Luo, and Chun Liu.",
+    "venue": "Engineering Applications of Artificial Intelligence, 162: 112626, 2025.",
+    "kind": "journal",
+    "first": false
+  },
+  {
+    "year": "2023",
+    "title": "Automated Extraction of Tunnel Electricity Transmission System: An Object-Level Approach with Mobile Laser Scanning Data.",
+    "authors": "Shida Wang, Hangbin Wu, Han Yue, Lianbi Yao, Chongxing Liu, and Haili Sun.",
+    "venue": "International Journal of Applied Earth Observation and Geoinformation, 116: 103136, 2023.",
+    "kind": "journal",
+    "first": true
+  },
+  {
+    "year": "2023",
+    "title": "UAV LiDAR Data-Based Lane-Level Road Network Generation for Urban Scene HD Maps.",
+    "authors": "Yuanhang Kong, Hangbin Wu, Akram Akbari, Jintao Li, Jingwen Zhao, Shida Wang, Wei Huang, and Chongxing Liu.",
+    "venue": "IEEE Geoscience and Remote Sensing Letters, 20: 1–5, 2023.",
+    "kind": "journal",
+    "first": false
+  },
+  {
+    "year": "2025",
+    "title": "HD-LIO: A Robust LiDAR–Inertial Odometry for High-Definition Mapping in High-Dynamic Environments.",
+    "authors": "Shida Wang, Hangbin Wu, Kewen Lu, and Xiaolu Liu.",
+    "venue": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 6889–6893, 2025.",
+    "kind": "conference",
+    "first": true
+  }
+]
